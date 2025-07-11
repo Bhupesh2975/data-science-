@@ -1,0 +1,1 @@
+apend mode ka kaa kam ye hota hai ki agr esko file milti hai to ye usi file ke andrr append krdega agr esko file  nahi milti hai to crearte kar dega 
